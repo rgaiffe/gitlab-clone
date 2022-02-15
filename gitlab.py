@@ -11,6 +11,7 @@ from pathlib import Path
 from loguru import logger
 from git import Repo
 
+# Change this uri if you use self hosted gitlab
 GITLAB_API_URI = "https://gitlab.com/api/graphql"
 # Choose namespace here
 NAMESPACE = ""
