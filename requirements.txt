@@ -1,0 +1,9 @@
+certifi==2020.12.5
+chardet==4.0.0
+gitdb==4.0.5
+GitPython==3.1.14
+idna==2.10
+loguru==0.5.3
+requests==2.25.1
+smmap==3.0.5
+urllib3==1.26.3
